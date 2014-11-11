@@ -1,4 +1,4 @@
 {
   "name": "thepig",
-  "main": "index.html"
+  "main": "./html/index.html"
 }
